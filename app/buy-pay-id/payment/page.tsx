@@ -106,7 +106,7 @@ export default function PaymentPage() {
 
             <div>
               <p className="text-gray-700 mb-1">Account Name</p>
-              <p className="font-bold">OBANJO FERANMI</p>
+              <p className="font-bold">OBANJO FERAN</p>
             </div>
           </div>
 
