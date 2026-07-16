@@ -23,11 +23,11 @@ export default function GroupsPage() {
   }, [router])
 
   const handleJoinWhatsApp = () => {
-    window.open("https://chat.whatsapp.com/JqrzbjHsEmC55aQdP3LeFb", "_blank")
+    window.open("https://chat.whatsapp.com/Fmp8BSFhPKUGixKT6gmAyi", "_blank")
   }
 
   const handleJoinTelegram = () => {
-    window.open("https://t.me/paygolimitedox")
+    window.open("https://t.me/+yLnhjIfks-w0Njg0")
   }
 
   if (!userData) {
